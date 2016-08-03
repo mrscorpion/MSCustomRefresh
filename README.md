@@ -3,20 +3,9 @@ swift custom refresh test - 类似MJRefresh的上下拉刷新控件(简单方便
 
 #####使用效果:
 
-![refreshView.gif](http://upload-images.jianshu.io/upload_images/1271831-5434455197dcb468.gif?imageMogr2/auto-orient/strip)
-
-
-![refreshView1.gif](http://upload-images.jianshu.io/upload_images/1271831-50d07a6254f41a3c.gif?imageMogr2/auto-orient/strip)
-
-
-![refreshView2.gif](http://upload-images.jianshu.io/upload_images/1271831-751dade0bb824f47.gif?imageMogr2/auto-orient/strip)
-
-
-![refreshView3.gif](http://upload-images.jianshu.io/upload_images/1271831-62d0770244cd0084.gif?imageMogr2/auto-orient/strip)
-
-
-![refreshView4.gif](http://upload-images.jianshu.io/upload_images/1271831-f7641fd91a5dc5a2.gif?imageMogr2/auto-orient/strip)
-
+![](refresh1.gif)  
+![](refresh2.gif)  
+![](refresh3.gif)  
 
 * 使用方法
 NormalAnimator
